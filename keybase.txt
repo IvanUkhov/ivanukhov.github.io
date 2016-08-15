@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/ivanukhov
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ivanukhov.com
+  * I am ivanukhov (https://keybase.io/ivanukhov) on keybase.
+  * I have a public key ASCHTGXzB0G7eDG-1-xsc7D4m2GaXCUIqlql5p9-p7urkQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120874c65f30741bb7831bed7ec6c73b0f89b619a5c2508aa5aa5e69f7ea7bbab910a",
+            "host": "keybase.io",
+            "kid": "0120874c65f30741bb7831bed7ec6c73b0f89b619a5c2508aa5aa5e69f7ea7bbab910a",
+            "uid": "c0c98ae71558d54a5c6c447eacc78919",
+            "username": "ivanukhov"
+        },
+        "service": {
+            "hostname": "ivanukhov.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.17"
+    },
+    "ctime": 1471288556,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1471288507,
+        "hash": "4f3d0fd845a7a12d5026ad710ec4ac8ff840e0d010409282b3ced9d84b98b6e45928589854009eb97904d52778ff8f25880ce2fcc05ef4d8ca828fd608534486",
+        "seqno": 578539
+    },
+    "prev": "df1a5bae4dcb73ad87d97855b35be6ea1d7902a93e1ebf9487668ee234bd6186",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgh0xl8wdBu3gxvtfsbHOw+JthmlwlCKpapeaffqe7q5EKp3BheWxvYWTFAvd7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwODc0YzY1ZjMwNzQxYmI3ODMxYmVkN2VjNmM3M2IwZjg5YjYxOWE1YzI1MDhhYTVhYTVlNjlmN2VhN2JiYWI5MTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwODc0YzY1ZjMwNzQxYmI3ODMxYmVkN2VjNmM3M2IwZjg5YjYxOWE1YzI1MDhhYTVhYTVlNjlmN2VhN2JiYWI5MTBhIiwidWlkIjoiYzBjOThhZTcxNTU4ZDU0YTVjNmM0NDdlYWNjNzg5MTkiLCJ1c2VybmFtZSI6Iml2YW51a2hvdiJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiaXZhbnVraG92LmNvbSIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE3In0sImN0aW1lIjoxNDcxMjg4NTU2LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NzEyODg1MDcsImhhc2giOiI0ZjNkMGZkODQ1YTdhMTJkNTAyNmFkNzEwZWM0YWM4ZmY4NDBlMGQwMTA0MDkyODJiM2NlZDlkODRiOThiNmU0NTkyODU4OTg1NDAwOWViOTc5MDRkNTI3NzhmZjhmMjU4ODBjZTJmY2MwNWVmNGQ4Y2E4MjhmZDYwODUzNDQ4NiIsInNlcW5vIjo1Nzg1Mzl9LCJwcmV2IjoiZGYxYTViYWU0ZGNiNzNhZDg3ZDk3ODU1YjM1YmU2ZWExZDc5MDJhOTNlMWViZjk0ODc2NjhlZTIzNGJkNjE4NiIsInNlcW5vIjoxMCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEAFYBXPMWKzzPVD7mdd4YY/RynsI1oxkRTL7uegVvyPvr1s78xTly40R8ZVsXe7OA205vqToLtskEwluoUOziYFqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQg0pihTjover9fabtOQ481w5rtyLlaKH5wDag/Wc7jWhKjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ivanukhov
+
+==================================================================
